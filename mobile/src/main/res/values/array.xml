@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="response">
+        <item>Teste 1</item>
+        <item>Teste 2</item>
+        <item>Teste 3</item>
+        <item>Teste 4</item>
+    </string-array>
+</resources>
